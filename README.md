@@ -1,5 +1,4 @@
 ### Hey!
-![https://i.pinimg.com/originals/27/b1/76/27b17648a9ff1dc1055438d6a4f251b9.jpg]
 Love stars :⭐
 
 <!--
