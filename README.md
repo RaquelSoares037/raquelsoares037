@@ -1,7 +1,5 @@
-## **Hiiii!**
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+## ! []https://i.pinimg.com/originals/27/b1/76/27b17648a9ff1dc1055438d6a4f251b9.jpg
+Love stars :⭐
 
 <!--
 **RaquelSoares037/raquelsoares037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
