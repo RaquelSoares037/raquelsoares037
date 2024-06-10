@@ -1,7 +1,11 @@
-### Hey!
-Love stars :⭐
+### Boas vindas ao meu perfil 💙💙
+Meu nome é Raquel Soares
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![]([link](https://i.pinimg.com/564x/27/b1/76/27b17648a9ff1dc1055438d6a4f251b9.jpg)
 
-<!--
+
 **RaquelSoares037/raquelsoares037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
